@@ -1,0 +1,12 @@
+{
+	"name": "Lyrics",
+	"description": "Find the lyrics of any song by a given artist",
+	"launch_path": "/index.html",
+	"developer": {
+		"name": "Moraru Stefan"
+	},
+	"icons": {
+		"128": "/images/icon.png"
+	},
+	"default_locale": "en"
+}
